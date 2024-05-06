@@ -5,5 +5,6 @@
 - Popolazione residente per età, sesso, cittadinanza, quartiere, zona, area statistica: https://opendata.comune.bologna.it/explore/dataset/popolazione-residente-per-eta-sesso-cittadinanza-quartiere-zona-area-statistica-/information/?disjunctive.area_statistica&disjunctive.quartiere&disjunctive.zona&disjunctive.sesso&disjunctive.eta_grandi&disjunctive.eta&disjunctive.cittadinanza&sort=-anno
 - Reddito: https://opendata.comune.bologna.it/explore/dataset/redditi-per-area-statistica/information/
 - Indici fragilità: https://opendata.comune.bologna.it/explore/dataset/indici-di-fragilita-dal-2021/table/?disjunctive.area_statistica&sort=yyyy
+- Aree statistiche: https://opendata.comune.bologna.it/explore/dataset/aree-statistiche/export/?basemap=jawg.light&location=11,44.4887,11.33168
 
   
